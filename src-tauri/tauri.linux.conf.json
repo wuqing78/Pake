@@ -2,8 +2,8 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/weread_256.ico",
-        "png/weread_512.png"
+        "png/uqnlife_256.ico",
+        "png/uqnlife_512.png"
       ],
       "identifier": "com.tw93.weread",
       "active": true,
@@ -23,7 +23,7 @@
           "gnome-video-effects-extra"
         ],
         "files": {
-          "/usr/share/applications/com-tw93-weread.desktop": "assets/com-tw93-weread.desktop"
+          "/usr/share/applications/com-tw93-uqnlife.desktop": "assets/com-tw93-uqnlife.desktop"
         }
       },
       "externalBin": [],
